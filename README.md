@@ -1,14 +1,16 @@
-# Exercise-05D-EnemiesAndNavigation
-4/2/2024 small exercise about 3D enemy movement and navigation systems
+# Project_05-FPS_Maze
+4/8/2024
 
 ## Implementation
 unity 3D 
 
 ## References
-supplied by the instructor
+Fonts - https://www.dafont.com/linux-libertine.font, https://www.dafont.com/corrupted-file.font
+Sound - https://freesound.org/people/D001447733/sounds/464608/, https://freesound.org/people/TheoJT/sounds/510800/
+art - https://opengameart.org/content/skull-monster-sprite-sheet
 
 ## Future Development
-create a full maze with multiple enemies with different looks
+Add more complex monsters, and more levels. Have different sounds for different levels, and use different materials for the walls and floors. 
 
 ## Created by
 Abigail Hanson
